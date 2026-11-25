@@ -54,3 +54,7 @@ tests/      # pytest tests
 ## Ideas for later
 - Import/export decks as CSV
 - A small web page on top of the same database layer
+
+## Portfolio
+
+Full case study: <https://zalameri.github.io/project.html?p=studybuddy-flashcards>
